@@ -4,5 +4,6 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/><img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="20" height="20"/>         </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3Samourai)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=3Samourai&&show_icons=true&title_color=ffffff&icon_color=98ff98&text_color=98ff98&bg_color=151515" alt="Github Stats"/>
+</p>
